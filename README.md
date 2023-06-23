@@ -6,7 +6,6 @@
 
 ##
   
-- 🔭 Atualmente trabalhando com front-end
 - 🌱 Estudando tecnologias web
 
  ##
